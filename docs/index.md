@@ -1,6 +1,6 @@
 # Universidade Federal do Rio Grande do Norte (UFRN)
-# Centro de Ensino Superior do Seridó
-# Departamento de Computação e Tecnologia
+# Centro de Ensino Superior do Seridó (CERES)
+# Departamento de Computação e Tecnologia (DCT)
 
 ## Arduino nas Escolas
 ### A introdução do pensamento computacional no ensino fundamental e médio através da plataforma Arduino
