@@ -1,4 +1,4 @@
-# Universidade Federal do Rio Grande do Norte
+# Universidade Federal do Rio Grande do Norte (UFRN)
 # Centro de Ensino Superior do Seridó
 # Departamento de Computação e Tecnologia
 
